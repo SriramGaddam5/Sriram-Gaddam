@@ -1,6 +1,4 @@
-### Hi! 👋
-
-## I am Sriram Gaddam
+# Hi! 👋 I am Sriram Gaddam
 
 ![HeaderImage](https://user-images.githubusercontent.com/56180112/153908009-b76e86ae-b2ac-4431-b76f-25286220511c.gif)
 
