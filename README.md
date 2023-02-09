@@ -1,6 +1,6 @@
 # Hi! 👋 I am Sriram Gaddam
 
-![HeaderImage](https://user-images.githubusercontent.com/56180112/153908009-b76e86ae-b2ac-4431-b76f-25286220511c.gif)
+![Sriram Gaddam Header](https://user-images.githubusercontent.com/56180112/217955501-a11044c1-bf1f-492e-a37d-f5078c61199a.gif)
 
 I like to create video games in Unity and I have experience with Java, C#, React, Python, and HTML/CSS
 
