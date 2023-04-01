@@ -1,4 +1,4 @@
-# Hi! 👋 I am Sriram Gaddam
+# Hi! I'm Sriram Gaddam
 
 ![Sriram Gaddam Header](https://user-images.githubusercontent.com/56180112/223577979-f9aacba5-8ee0-40f8-9d87-e18792171eb9.gif)
 
@@ -8,3 +8,9 @@ Aside from coding, I like to paint and play the electric guitar
 
 ### Links
 [My LinkedIn](https://www.linkedin.com/in/sriram-gaddam-1819841bb/)
+
+[My platformer game](https://gamejolt.com/games/Horizon/551728)
+
+[My tower defense game](https://medipeakapps.itch.io/corona-defenders)
+
+[Inventory Crafting System](https://official-itchio.itch.io/crafting-and-inventory-system)
