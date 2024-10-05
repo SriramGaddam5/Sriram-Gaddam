@@ -7,7 +7,7 @@ I like to create video games in Unity and I have experience with Java, C#, React
 Aside from coding, I like to paint and play the electric guitar
 
 ### Links
-[My LinkedIn](https://www.linkedin.com/in/sriram-gaddam-1819841bb/)
+[My LinkedIn](https://www.linkedin.com/in/sriram-gaddam)
 
 [My platformer game](https://gamejolt.com/games/Horizon/551728)
 
